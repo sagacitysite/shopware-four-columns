@@ -1,0 +1,11 @@
+{
+  "sw-cms": {
+    "blocks": {
+      "commerce": {
+        "productFourColumn": {
+          "label": "Four columns, product boxes"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "swag/four-columns",
+    "description": "Plugin four columns",
+    "version": "v1.0.0",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Exploeco",
+            "role": "Manufacturer"
+        }
+    ],
+    "require": {
+        "shopware/core": "6.1.*"
+    },
+    "extra": {
+        "shopware-plugin-class": "Swag\\FourColumns\\FourColumns",
+        "label": {
+            "de-DE": "FourColumns",
+            "en-GB": "FourColumns"
+        },
+        "description": {
+            "de-DE": "FourColumns",
+            "en-GB": "FourColumns"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Swag\\FourColumns\\": "src/"
+        }
+    }
+}
+
