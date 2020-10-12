@@ -10,9 +10,6 @@
             "role": "Manufacturer"
         }
     ],
-    "require": {
-        "shopware/core": "6.1.*"
-    },
     "extra": {
         "shopware-plugin-class": "Swag\\FourColumns\\FourColumns",
         "label": {
